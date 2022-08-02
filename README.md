@@ -8,7 +8,7 @@ Connect to AWS EC2 machine.
 
 Install docker on you EC2 linux machine
 
-```curl -fsSL https://get.docker.com -o get-docker.sh```
+````curl -fsSL https://get.docker.com -o get-docker.sh````
 
 ```sh get-docker.sh```
 
